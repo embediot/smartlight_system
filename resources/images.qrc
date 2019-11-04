@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/picture">
+        <file alias="apple_jobs">apple.jpg</file>
+    </qresource>
+</RCC>
